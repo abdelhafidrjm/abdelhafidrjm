@@ -1,17 +1,16 @@
 # About me
 ### Skills
-- The ability to solve complicated mathematical problems.
-- The ability to solve complicated algorithmic problems.
+- The ability to solve mathematical and algorithmic problems.
 - Knowledge of the basics of web development (HTML, CSS).
 - Knowledge of Python basics.
 - Knowledge of using LaTex
-- Polyglot :
-  1. French : B2 (TCF DAP)
-  2. English : Intermediate
+- Knowledge of using MatLab
+- I speak :
+  1. French : Intermediate (TCF B2)
+  2. English : Fluent
   3. Arabic : Native
 
 ### Skills under devolopement
-- MatLab
 - PowerBI
 - Web Developement
 
@@ -28,7 +27,8 @@ I play accostic guitar
 ### Social Media
 If you want to reach me, you can find me at:   
 Instgram : https://www.instagram.com/abdelhafidredjem/  
-Linkedin : https://www.linkedin.com/in/abdelhafid-redjem-7ba518323/  
+Linkedin : https://www.linkedin.com/in/abdelhafid-rjm
+Facebook : https://www.facebook.com/abdelhafidredjem07
 Email : abdelhafid.redjem07@gmail.com  
 
 <!--
