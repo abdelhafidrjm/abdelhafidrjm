@@ -26,10 +26,10 @@ I play accostic guitar
 
 ### Social Media
 If you want to reach me, you can find me at:   
-Instgram : https://www.instagram.com/abdelhafidredjem/  
-Linkedin : https://www.linkedin.com/in/abdelhafid-rjm
-Facebook : https://www.facebook.com/abdelhafidredjem07
-Email : abdelhafid.redjem07@gmail.com  
+Instgram : https://www.instagram.com/abdelhafidredjem/   
+Linkedin : https://www.linkedin.com/in/abdelhafid-rjm/ 
+Facebook : https://www.facebook.com/abdelhafidredjem07/ 
+Email : abdelhafid.redjem07@gmail.com/ 
 
 <!--
 
