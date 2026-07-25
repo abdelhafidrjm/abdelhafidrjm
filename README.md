@@ -1,44 +1,43 @@
 # About me
-### Skills
-- The ability to solve mathematical and algorithmic problems.
-- Knowledge of the basics of web development (HTML, CSS).
-- Knowledge of Python basics.
-- Knowledge of using LaTex
-- Knowledge of using MatLab
-- I speak :
+
+I am a 2nd year undergraduate student majoring in mathematics, I am so passionat by anything math and algorithmic, or scheince related really.
+
+My respositories present my personal and academic projects
+
+I'm currently working on an **Echelonizer** in Python with a dynamic GUI 
+
+## Skills
+- **Mathematics**: strong foundation in core areas such as algebra, real analysis, and statistics
+- **Algorithmic**: solid understanding of fundamental concepts (basic data structures).  
+- **Programming**: Python (NumPy, SciPy, SymPy, Tkinter) - fundamental basics.  
+- **Web development**: HTML, CSS.  
+- **Scientific and office tools**: MATLAB, LaTeX, Excel.  
+
+## Skills I'm still grasping
+- Web Developement
+- Python
+- Git & GitHub
+
+
+## I speak :
   1. French : Intermediate (TCF B2)
   2. English : Fluent
   3. Arabic : Native
+  4. Spanish : Beginner (I just started learning)
 
-### Skills under devolopement
-- PowerBI
-- Web Developement
-
-### Hobbies
+## Hobbies
 I play accostic guitar
 
-### Interests
-- Mathematics espceially the departmenet of Algebra and Theory of Numbers
-- Computer Science
-- Psychology
-- Neuroscience
-- Philosophy
+## Interests
+- Mathematics especially the area of Algebra and Discrets Mathematics  
+- Computer Science  
+- Psychology  
+- Philosophy  
+- Music  
 
-### Social Media
+## Contact
 If you want to reach me, you can find me at:   
-Instgram : https://www.instagram.com/abdelhafidredjem/   
-Linkedin : https://www.linkedin.com/in/abdelhafid-rjm/ 
-Facebook : https://www.facebook.com/abdelhafidredjem07/ 
-Email : abdelhafid.redjem07@gmail.com/ 
-
-<!--
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Instgram : https://www.instagram.com/abdelhafidredjem      
+Linkedin : https://www.linkedin.com/in/abdelhafid-rjm    
+Facebook : https://www.facebook.com/abdelhafidredjem07    
+Email : abdelhafid.redjem07@gmail.com  
